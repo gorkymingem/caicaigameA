@@ -2,5 +2,3 @@
   Cross-Origin-Opener-Policy: same-origin
   Cross-Origin-Embedder-Policy: require-corp
   Cache-Control: public, max-age=31536000, immutable
-  Cross-Origin-Resource-Policy: cross-origin
-  Content-Security-Policy: default-src 'self'; script-src 'self'; style-src 'self' 'sha256-DJPmZITboQNT+oEDEgIuJOO3hlQ3NU0LiyRCwTor7y0='; worker-src 'self' blob:; frame-src 'self'
